@@ -1,3 +1,3 @@
 JEROME
-###my new blogpost
-#####continental foods
+### My New Blogpost
+##### Continental Foods
